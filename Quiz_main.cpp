@@ -10,6 +10,7 @@ void main(void) {
 	std::vector <std::string> login;
 	std::string answer;
 	bool flag = true;
+	int index;
 
 	int index;
 
