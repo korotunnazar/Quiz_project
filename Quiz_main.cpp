@@ -11,6 +11,8 @@ void main(void) {
 	std::string answer;
 	bool flag = true;
 
+	int index;
+
 	std::cout << "Добро пожаловать на викторину 'У Богдана'!" << std::endl;
 
 	while (flag) {
