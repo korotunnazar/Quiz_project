@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include "UserAuthorize.cpp"
 
 void main(void) {
 
@@ -12,7 +13,7 @@ void main(void) {
 	bool flag = true;
 
 	int index;
-
+	
 	std::cout << "Добро пожаловать на викторину 'У Богдана'!" << std::endl;
 
 	while (flag) {
