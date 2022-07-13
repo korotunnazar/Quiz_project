@@ -1,7 +1,8 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include "UserAuthorize.cpp"
+#include "UserAuthorize.h"
+#include "parsing.h"
 
 void main(void) {
 
