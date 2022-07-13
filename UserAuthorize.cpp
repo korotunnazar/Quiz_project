@@ -254,7 +254,7 @@ bool			SignIn()
 }
 
 
-void			main()
+void			Registration()
 {
 	SignUp(); // register new account
 

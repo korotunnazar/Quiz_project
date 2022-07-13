@@ -27,6 +27,8 @@ void main(void) {
 		{
 		case 1:
 
+			Registration();
+
 			std::cout << "Функция ввода данных" << std::endl;
 			std::cout << "Функция проверки по шаблону" << std::endl;
 			std::cout << "Функция хеширования введённого пароля" << std::endl;
